@@ -1,0 +1,9 @@
+[submodule "libs/fmt"]
+	path = libs/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "libs/date"]
+	path = libs/date
+	url = https://github.com/HowardHinnant/date.git
+[submodule "libs/spdlog"]
+	path = libs/spdlog
+	url = https://github.com/gabime/spdlog.git
